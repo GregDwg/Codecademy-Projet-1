@@ -1,0 +1,121 @@
+h2 {
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  
+  p {
+    font-size: 16px;
+  }
+  
+  .container {
+    display: block;
+    border: solid 1px #000;
+    width: 100%;
+    margin: 10px 0px;
+    padding: 10px;
+  }
+  
+  .color-container {
+    display: inline-block;
+    width: 100%;
+    margin: 10px auto;
+    
+  }
+  
+  /*Color Section*/ 
+  .color-container p {
+    text-align: center;
+  }
+  
+  .color-container .blue {
+    color: white;
+  }
+  
+  
+  .color-container .blue {
+    background-color: #2d5dcc;
+    width: 33%;
+  }
+  
+  .color-container .pink {
+    background-color: #d957d9;
+    width: 33%;
+  
+  }
+  
+  .color-container .mint-green {
+    background-color: #4fe0b0;
+    width: 33%;
+  
+  }
+  
+  .color-container .beige {
+    background-color: #efd9ca;
+    width: 33%;
+  
+  }
+  
+  /*Font Section*/
+  
+  .font-container {
+    display: inline-block;
+    width: 45%;
+    vertical-align: center;
+  }
+  
+  .font-label {
+    text-decoration: underline;
+    font-size: 20px;
+  }
+  
+  .font-label .source-code-pro {
+    font-family: 'Source Code Pro', monospace;
+  } 
+  
+  .font-label .nunito-sans {
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  
+  .font-label .poppins {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .bold {
+    font-weight: 700;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .source-code-pro {
+    font-family: 'Source Code Pro', monospace;
+  }
+  
+  .bold .source-code-pro {
+    font-weight: bold;
+    font-size: 300px;
+  }
+  
+  .nunito-sans {
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  
+  
+  .poppins {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  /* Styles Section */
+  
+  .text-styles {
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  
+  .text-styles h2 {
+    font-size: 18px;
+  }
+  
+  .text-styles p {
+    font-size: 14px;
+  }
+  
